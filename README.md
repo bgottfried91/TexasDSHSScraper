@@ -2,7 +2,7 @@
 This is a script to help assist in retrieving data related to COVID-19.
 
 ## Current behavior
-The script will download all xlsx files from https://dshs.texas.gov/coronavirus/AdditionalData.aspx and place them inside dataDir/<date>/.
+The script will download all xlsx files from https://dshs.texas.gov/coronavirus/AdditionalData.aspx and place them inside dataDir/\<current date\>/.
   
 ## Requirements
 You must have Python 3 installed. [This link should provide you with the correct link for installing Python](https://www.python.org/downloads/). If you're on MacOS or Linux, it may already be installed. To test if it's installed, run `python -h` in a terminal window.
